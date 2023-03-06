@@ -1,0 +1,50 @@
+{
+  "tasks": [
+    {
+      "todoItem": "Get to work",
+      "id": 1
+    },
+    {
+      "todoItem": "Pick up groceries",
+      "id": 2
+    },
+    {
+      "todoItem": "Go home",
+      "id": 3
+    },
+    {
+      "todoItem": "Fall asleep",
+      "id": 4
+    },
+    {
+      "todoItem": "Get up",
+      "id": 5
+    },
+    {
+      "todoItem": "Brush teeth",
+      "id": 6
+    },
+    {
+      "todoItem": "Walk dog",
+      "id": 7
+    },
+    {
+      "todoItem": " Check e-mail",
+      "id": 8
+    },
+    {
+      "todoItem": "Take a shower",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
